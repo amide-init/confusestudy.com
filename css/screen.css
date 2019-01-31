@@ -1,0 +1,164 @@
+*{
+	margin:0px;
+	padding:0px;
+	font-size:15px;
+	
+}
+body{
+	width:100%;
+	background:lavender;
+	display:-webkit-box;
+	-webkit-box-pack:center;
+}
+
+#top_header{
+	background:#3b5998;
+	color:white;
+	
+	text-align:left;
+	font-size:0.8em;
+	padding:20px;
+	
+	
+}
+
+#logo{
+	float:left;
+	font-size:0.8em;
+	font-family:Tahoma;
+	font-style:normal;
+}
+#xlogo{
+	float:right;
+	font-size:1.1em;
+}
+#xlogo li{
+	text-decoration:none;
+	display:inline-block;
+	text-align:right;
+	margin:5px;
+	padding:4px;
+	font-size:1.4em;
+}
+#xlogo  li a{
+	
+	color:white;
+	
+}
+#all_div{
+	max-width:1200px;
+	min-width:600px;
+	background:white;
+	margin:0px 0px;
+	display:-webkit-box;
+	-webkit-box-orient:vertical;
+	-webkit-box-flex:1;
+}
+
+@media only screen and (max-width: 600px){
+	#all_div{
+		width:100%;
+	}
+}
+#amin{
+	width:600px;
+		margin:0px 0px;
+
+	display:-webkit-box;
+	-webkit-box-orient:vertical;
+	-webkit-box-flex:1;
+}
+#new_div{
+	width:100%;
+	padding:20px;
+	
+}
+#another_new_div{
+	width:90%;
+	margin-left:40px;
+	
+	
+}
+#main_section{
+	float:left;
+	padding:20px;
+	width:600px;
+	font-size:1em;
+
+	margin:10px;
+	
+	border-radius:3px;
+	-webkit-box-flex:1;
+}
+#main_section h2{
+	background:#3b5998;
+	font-size:0.9em;
+	color:white;
+	padding:5px;
+	
+	
+}
+
+
+#the_footer{
+	text-align:center;
+	padding:30px;
+	color:white;
+	
+	background:#39424e;
+	margin:20px 0px;
+	
+}
+#reg{
+	border-radius:5px;
+	padding:10px; border:2px solid #3b5998; margin-bottom:10px;font-size:1.1em; text-align:center;
+}
+#profile{
+	width:150px;
+	height:150px;
+
+	padding:10px;
+	
+	
+	
+}
+#profile img{
+	width:100%;
+	height:100%;
+	
+}
+#mid_profile{
+	width:100px;
+	height:140px;
+	padding:5px;
+	float:right;
+	background:lavender;
+
+}
+#mid_profile img{
+	width:100%;
+	height:100%;
+}
+#small_profile{
+	width:35px;
+	height:40px;
+	border-radius:50%;
+	padding:1px;
+	float:left;
+	margin-right:10px;
+	margin-left:10px;
+	background:lavender;
+	
+}
+#small_profile img{
+	width:100%;
+	height:100%;
+	border-radius:50%;
+}
+footer{
+	background:lavender;
+	padding:10px;
+	color:#3b5998;
+	font-style:tauta;
+	font-size:0.9em;
+}
