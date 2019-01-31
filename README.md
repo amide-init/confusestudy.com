@@ -1,3 +1,3 @@
 # confusestudy.com
-<img src="https://pbs.twimg.com/media/DAn5NWiW0AA0EdX.jpg" />
+<img src="https://pbs.twimg.com/media/DAn5NWiW0AA0EdX.jpg" height="200" />
 Confusestudy.com was my first domain that I purchased in 2016. I was also the founder of that domain. This website was similar to quora.  where user could have created a profile  easily by using email or facrbook authentication.  This website  was build in php 5.6 , Now I want  to share the all code with you. I have very close attachemnet with this project because I had zero knowledge  when I had started writing the code. I know this project has lots of mistake but I don't care because I have learned so much from this project.
